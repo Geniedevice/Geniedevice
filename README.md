@@ -3,7 +3,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geniedevice)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Core
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unreal Engine](...) ![Online Subsystem](...) ![Steamworks](https://img.shields.io/badge/Steamworks-000000?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![DirectX](https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![Online Subsystem](https://img.shields.io/badge/Online%20Subsystem-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Steamworks](https://img.shields.io/badge/Steamworks-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![DirectX](https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 
