@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Genie&fontAlign=50&fontAlignY=40&desc=/*Client%20Developer%20and%20more*/&descAlign=50&descAlignY=60&section=/*&sectionAlign=10&extraSection=*/&extraSectionAlign=90&color=FFFFFF&v=1)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Genie&fontAlign=50&fontAlignY=40&desc=/*Client%20Developer%20and%20more*/&descAlign=50&descAlignY=60&section=/*&sectionAlign=10&extraSection=*/&extraSectionAlign=90&color=000000&fontColor=FFFFFF&v=blackwhite)
 
 #### Core
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
