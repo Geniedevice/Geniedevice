@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Genie&fontAlign=50&fontAlignY=40&desc=/*Client%20Developer%20and%20more*/&descAlign=50&descAlignY=60&section=/*&sectionAlign=10&extraSection=*/&extraSectionAlign=90&transparent=00FF00)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geniedevice)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Genie&fontAlign=50&fontAlignY=40&desc=/*Client%20Developer%20and%20more*/&descAlign=50&descAlignY=60&section=/*&sectionAlign=10&extraSection=*/&extraSectionAlign=90&transparent=00FF00&descColor=FFFFFF)
 
 #### Core
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
@@ -20,3 +17,7 @@
 
 ### 💬 About Me
 안녕하세요! 계속해서 성장하는 게임 클라이언트 개발자 입니다.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geniedevice)](https://github.com/anuraghazra/github-readme-stats)
