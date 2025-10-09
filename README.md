@@ -9,4 +9,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ### 💬 About Me
-안녕하세요! 언리얼 엔진으로 멋진 게임을 만들고 싶은 게임 클라이언트 개발자 지망생입니다.
+안녕하세요! 계속해서 성장하는 게임 클라이언트 개발자 입니다.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
