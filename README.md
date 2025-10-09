@@ -1,4 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=CSS&logoColor=white)
+![js](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=white)
