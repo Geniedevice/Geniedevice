@@ -12,3 +12,5 @@
 안녕하세요! 계속해서 성장하는 게임 클라이언트 개발자 입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
