@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Genie&fontAlign=70&transparent=00FF00)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Genie&fontAlign=50&desc=Client%20Developer%20and%20more&descAlign=50&descAlignY=70&section=/*&sectionAlign=10&extraSection=*/&extraSectionAlign=90&transparent=00FF00)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
 
