@@ -16,7 +16,6 @@
 ![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 
 ### 💬 About Me
-안녕하세요! 계속해서 성장하는 게임 클라이언트 개발자 입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
 
