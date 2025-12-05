@@ -17,22 +17,8 @@
 
 ### 💬 About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geniedevice&hide=markdown)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Unreal-Engine-2af5eee53be18059a964e63e3cd09eb9?source=copy_link)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Geniedevice&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Geniedevice's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geniedevice&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-
-<br>
-
-<a href="https://www.notion.so/Unreal-Engine-2af5eee53be18059a964e63e3cd09eb9?source=copy_link">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
-</a>
-
-</div>
